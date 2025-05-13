@@ -22,10 +22,9 @@ I actively work with :
 
 </h4>
 
-| <img src="./pythonicon.svg" alt="Python" title="Python" width="70"/> | <img src="./typescripticon.svg" alt="TypeScript" title="TypeScript" width="70"/> | <img src="./nodeicon.svg" alt="Node.js" title="Node.js" width="70"/> | <img src="./expressicon.svg" alt="Express.js" title="Express.js" width="70"/> | <img src="./reduxicon.svg" alt="Redux" title="Redux" width="70"/> |
-| :----------------------------------------------------------------------: | :----------------------------------------------------------------------: | :----------------------------------------------------------------------: | :----------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-| <img src="./mongodbicon.svg" alt="MongoDB" title="MongoDB" width="70"/> | <img src="./vueicon.svg" alt="Vue.js" title="Vue.js" width="70"/> | <img src="./sassicon.svg" alt="Sass" title="Sass" width="70"/> | <img src="./bootstrapicon.svg" alt="Bootstrap" title="Bootstrap" width="70"/> | <img src="./opencvicon.svg" alt="OpenCV" title="OpenCV" width="70"/> |
-| <img src="./raspberrypiicon.svg" alt="RaspberryPi" title="RaspberryPi" width="70"/> | <img src="./arduinoicon.svg" alt="Arduino" title="Arduino" width="70"/> |
+| <img src="./pythonicon.svg" alt="Python" title="Python" width="70"/> | <img src="./typescripticon.svg" alt="TypeScript" title="TypeScript" width="70"/> | <img src="./nodeicon.svg" alt="Node.js" title="Node.js" width="70"/> | <img src="./expressicon.svg" alt="Express.js" title="Express.js" width="70"/> | <img src="./reduxicon.svg" alt="Redux" title="Redux" width="70"/> | <img src="./mongodbicon.svg" alt="MongoDB" title="MongoDB" width="70"/> |
+| :----------------------------------------------------------------------: | :----------------------------------------------------------------------: | :----------------------------------------------------------------------: | :----------------------------------------------------------------------: | :----------------------------------------------------------------------: | :----------------------------------------------------------------------: |
+|  <img src="./vueicon.svg" alt="Vue.js" title="Vue.js" width="70"/> | <img src="./sassicon.svg" alt="Sass" title="Sass" width="70"/> | <img src="./bootstrapicon.svg" alt="Bootstrap" title="Bootstrap" width="70"/> | <img src="./opencvicon.svg" alt="OpenCV" title="OpenCV" width="70"/> | <img src="./raspberrypiicon.svg" alt="RaspberryPi" title="RaspberryPi" width="70"/> | <img src="./arduinoicon.svg" alt="Arduino" title="Arduino" width="70"/> |
 
 <h4>
 
