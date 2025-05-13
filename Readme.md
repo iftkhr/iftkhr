@@ -4,7 +4,7 @@
 
 I am Iftakhar Kaunain Ashhar, a software engineer from India, aspiring to be at the edge of the cutting edge.
 
-I work primarily on frontend development with React and React Native. I am exploring backend with Node.js and looking into Java and Spring.
+I work primarily on frontend development with React and React Native. I am exploring backend with Node.js and looking into Java and SpringBoot.
 
 At present, I am working with SpiceJet as a software engineer. I am developing (technically leading) a new cross-platform app for our crew members. I developed and designed a monolithic frontend architecture that allows maximum code sharing between a React Native mobile app and a React web app! 
 
@@ -12,7 +12,7 @@ I actively work with :
 
 </h4>
 
-| <img src="./htmlicon.svg" alt="HTML" title="HTML" width="70"/> | <img src="./cssicon.svg" alt="CSS" title="CSS" width="70"/> | <img src="./jsicon.svg" alt="JavaScript" title="JavaScript" width="70"/> | <img src="./reacticon.svg" alt="React.js" title="React.js" width="70"/> | <img src="./reacticon.svg" alt="React Native" title="React Native" width="70"/> |
+| <img src="./htmlicon.svg" alt="HTML" title="HTML" width="70"/> | <img src="./cssicon.svg" alt="CSS" title="CSS" width="70"/> | <img src="./jsicon.svg" alt="JavaScript" title="JavaScript" width="70"/> | <img src="./reacticon.svg" alt="React.js" title="React.js" width="70"/> | <img src="./reactnativeicon.svg" alt="React Native" title="React Native" width="70"/> |
 | :----------------------------------------------------------------------: | :----------------------------------------------------------------------: | :----------------------------------------------------------------------: | :----------------------------------------------------------------------: | :----------------------------------------------------------------------: |
 | <img src="./angularicon.svg" alt="AngularJS" title="AngularJS" width="70"/> | <img src="./giticon.svg" alt="Git" title="Git" width="70"/> | <img src="./yarnicon.svg" alt="Yarn" title="Yarn" width="70"/> | <img src="./npmicon.svg" alt="NPM" title="NPM" width="70"/> | <img src="./vscodeicon.svg" alt="VS Code" title="VS Code" width="70"/> |
 
