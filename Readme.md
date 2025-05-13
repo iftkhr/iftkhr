@@ -32,8 +32,8 @@ I am learning:
 
 </h4>
 
-| <img src="./javaicon.svg" alt="Java" title="Java" width="70"/> | <img src="./springicon.svg" alt="SpringBoot" title="SpringBoot" width="70"/> |
-| :----------------------------------------------------------------------: | :----------------------------------------------------------------------: |
+| <img src="./javaicon.svg" alt="Java" title="Java" width="70"/> | <img src="./springicon.svg" alt="SpringBoot" title="SpringBoot" width="70"/> | <img src="./awsicon.svg" alt="AWS" title="AWS" width="70"/> |
+| :----------------------------------------------------------------------: | :----------------------------------------------------------------------: | :----------------------------------------------------------------------: |
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iftkhr&langs_count=10&layout=compact" alt="iftkhr" title="iftkhr" width="400"/>
